@@ -1,0 +1,199 @@
+30-Mar-2021 12:11:28.545 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host} Setting property 'xmlValidation' to 'false' did not find a matching property.
+30-Mar-2021 12:11:28.546 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host} Setting property 'xmlNamespaceAware' to 'false' did not find a matching property.
+30-Mar-2021 12:11:28.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.12
+30-Mar-2021 12:11:28.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 8 2017 17:41:47 UTC
+30-Mar-2021 12:11:28.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.12.0
+30-Mar-2021 12:11:28.570 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+30-Mar-2021 12:11:28.570 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.15.0-136-generic
+30-Mar-2021 12:11:28.570 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Mar-2021 12:11:28.570 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+30-Mar-2021 12:11:28.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.10+9-Ubuntu-0ubuntu1.18.04
+30-Mar-2021 12:11:28.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+30-Mar-2021 12:11:28.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:11:28.573 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:11:28.574 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/webadmin/qcadoo-mes-1.10.20/mes-application/conf/logging.properties
+30-Mar-2021 12:11:28.574 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2021 12:11:28.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_CONF=/home/webadmin/qcadoo-mes-1.10.20/mes-application/qcadoo
+30-Mar-2021 12:11:28.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_PLUGINS_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT/WEB-INF/lib
+30-Mar-2021 12:11:28.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_PLUGINS_TMP_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT/tmp
+30-Mar-2021 12:11:28.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_WEBAPP_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT
+30-Mar-2021 12:11:28.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_LOG=/home/webadmin/qcadoo-mes-1.10.20/mes-application/logs
+30-Mar-2021 12:11:28.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/home/webadmin/qcadoo-mes-1.10.20/mes-application/lib/aspectjweaver-1.8.2.jar
+30-Mar-2021 12:11:28.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxMetaspaceSize=256m
+30-Mar-2021 12:11:28.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2021 12:11:28.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2021 12:11:28.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+30-Mar-2021 12:11:28.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:11:28.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:11:28.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/webadmin/qcadoo-mes-1.10.20/mes-application/temp
+30-Mar-2021 12:11:28.582 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+30-Mar-2021 12:11:28.671 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:11:28.723 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Mar-2021 12:11:28.733 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1531 ms
+30-Mar-2021 12:11:28.880 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+30-Mar-2021 12:11:28.880 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.12
+30-Mar-2021 12:11:28.903 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT
+30-Mar-2021 12:11:40.529 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Mar-2021 12:12:02.786 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+30-Mar-2021 12:12:02.797 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [] startup failed due to previous errors
+30-Mar-2021 12:12:02.871 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+30-Mar-2021 12:12:02.887 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT has finished in 33,984 ms
+30-Mar-2021 12:12:02.896 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-8080]
+30-Mar-2021 12:12:02.926 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 34192 ms
+30-Mar-2021 12:12:02.987 INFO [http-nio-8080-exec-1] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:667)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1441)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+30-Mar-2021 12:20:43.602 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+30-Mar-2021 12:20:43.603 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:20:43.605 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+30-Mar-2021 12:20:43.608 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:20:43.614 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:24:10.549 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host} Setting property 'xmlValidation' to 'false' did not find a matching property.
+30-Mar-2021 12:24:10.562 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host} Setting property 'xmlNamespaceAware' to 'false' did not find a matching property.
+30-Mar-2021 12:24:10.570 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.12
+30-Mar-2021 12:24:10.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 8 2017 17:41:47 UTC
+30-Mar-2021 12:24:10.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.12.0
+30-Mar-2021 12:24:10.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+30-Mar-2021 12:24:10.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.15.0-136-generic
+30-Mar-2021 12:24:10.573 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Mar-2021 12:24:10.573 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+30-Mar-2021 12:24:10.573 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.10+9-Ubuntu-0ubuntu1.18.04
+30-Mar-2021 12:24:10.574 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+30-Mar-2021 12:24:10.574 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:24:10.575 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:24:10.575 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/webadmin/qcadoo-mes-1.10.20/mes-application/conf/logging.properties
+30-Mar-2021 12:24:10.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2021 12:24:10.578 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_CONF=/home/webadmin/qcadoo-mes-1.10.20/mes-application/qcadoo
+30-Mar-2021 12:24:10.578 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_PLUGINS_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT/WEB-INF/lib
+30-Mar-2021 12:24:10.578 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_PLUGINS_TMP_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT/tmp
+30-Mar-2021 12:24:10.578 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_WEBAPP_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT
+30-Mar-2021 12:24:10.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_LOG=/home/webadmin/qcadoo-mes-1.10.20/mes-application/logs
+30-Mar-2021 12:24:10.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/home/webadmin/qcadoo-mes-1.10.20/mes-application/lib/aspectjweaver-1.8.2.jar
+30-Mar-2021 12:24:10.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxMetaspaceSize=256m
+30-Mar-2021 12:24:10.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2021 12:24:10.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2021 12:24:10.585 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+30-Mar-2021 12:24:10.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:24:10.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:24:10.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/webadmin/qcadoo-mes-1.10.20/mes-application/temp
+30-Mar-2021 12:24:10.586 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+30-Mar-2021 12:24:10.671 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:24:10.718 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Mar-2021 12:24:10.726 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1525 ms
+30-Mar-2021 12:24:10.877 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+30-Mar-2021 12:24:10.877 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.12
+30-Mar-2021 12:24:10.901 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT
+30-Mar-2021 12:24:21.734 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Mar-2021 12:24:44.587 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+30-Mar-2021 12:24:44.594 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [] startup failed due to previous errors
+30-Mar-2021 12:24:44.671 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+30-Mar-2021 12:24:44.688 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT has finished in 33,787 ms
+30-Mar-2021 12:24:44.696 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-8080]
+30-Mar-2021 12:24:44.726 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 33999 ms
+30-Mar-2021 12:28:49.182 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+30-Mar-2021 12:28:49.183 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:28:49.184 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+30-Mar-2021 12:28:49.190 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:28:49.199 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:29:03.200 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host} Setting property 'xmlValidation' to 'false' did not find a matching property.
+30-Mar-2021 12:29:03.208 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host} Setting property 'xmlNamespaceAware' to 'false' did not find a matching property.
+30-Mar-2021 12:29:03.220 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.12
+30-Mar-2021 12:29:03.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 8 2017 17:41:47 UTC
+30-Mar-2021 12:29:03.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.12.0
+30-Mar-2021 12:29:03.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+30-Mar-2021 12:29:03.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.15.0-136-generic
+30-Mar-2021 12:29:03.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Mar-2021 12:29:03.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+30-Mar-2021 12:29:03.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.10+9-Ubuntu-0ubuntu1.18.04
+30-Mar-2021 12:29:03.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+30-Mar-2021 12:29:03.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:29:03.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:29:03.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/webadmin/qcadoo-mes-1.10.20/mes-application/conf/logging.properties
+30-Mar-2021 12:29:03.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2021 12:29:03.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_CONF=/home/webadmin/qcadoo-mes-1.10.20/mes-application/qcadoo
+30-Mar-2021 12:29:03.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_PLUGINS_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT/WEB-INF/lib
+30-Mar-2021 12:29:03.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_PLUGINS_TMP_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT/tmp
+30-Mar-2021 12:29:03.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_WEBAPP_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT
+30-Mar-2021 12:29:03.231 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_LOG=/home/webadmin/qcadoo-mes-1.10.20/mes-application/logs
+30-Mar-2021 12:29:03.231 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/home/webadmin/qcadoo-mes-1.10.20/mes-application/lib/aspectjweaver-1.8.2.jar
+30-Mar-2021 12:29:03.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxMetaspaceSize=256m
+30-Mar-2021 12:29:03.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2021 12:29:03.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2021 12:29:03.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+30-Mar-2021 12:29:03.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:29:03.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:29:03.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/webadmin/qcadoo-mes-1.10.20/mes-application/temp
+30-Mar-2021 12:29:03.235 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+30-Mar-2021 12:29:03.320 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:29:03.370 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Mar-2021 12:29:03.376 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1427 ms
+30-Mar-2021 12:29:03.530 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+30-Mar-2021 12:29:03.530 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.12
+30-Mar-2021 12:29:03.553 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT
+30-Mar-2021 12:29:14.778 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Mar-2021 12:29:37.112 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+30-Mar-2021 12:29:37.121 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [] startup failed due to previous errors
+30-Mar-2021 12:29:37.398 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+30-Mar-2021 12:29:37.415 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT has finished in 33,861 ms
+30-Mar-2021 12:29:37.420 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-8080]
+30-Mar-2021 12:29:37.429 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 34052 ms
+30-Mar-2021 12:42:05.234 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+30-Mar-2021 12:42:05.235 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:42:05.239 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+30-Mar-2021 12:42:05.246 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:42:05.251 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:42:16.913 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host} Setting property 'xmlValidation' to 'false' did not find a matching property.
+30-Mar-2021 12:42:16.921 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host} Setting property 'xmlNamespaceAware' to 'false' did not find a matching property.
+30-Mar-2021 12:42:16.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.12
+30-Mar-2021 12:42:16.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 8 2017 17:41:47 UTC
+30-Mar-2021 12:42:16.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.12.0
+30-Mar-2021 12:42:16.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+30-Mar-2021 12:42:16.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.15.0-136-generic
+30-Mar-2021 12:42:16.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Mar-2021 12:42:16.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+30-Mar-2021 12:42:16.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.10+9-Ubuntu-0ubuntu1.18.04
+30-Mar-2021 12:42:16.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+30-Mar-2021 12:42:16.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:42:16.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:42:16.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/webadmin/qcadoo-mes-1.10.20/mes-application/conf/logging.properties
+30-Mar-2021 12:42:16.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2021 12:42:16.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_CONF=/home/webadmin/qcadoo-mes-1.10.20/mes-application/qcadoo
+30-Mar-2021 12:42:16.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_PLUGINS_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT/WEB-INF/lib
+30-Mar-2021 12:42:16.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_PLUGINS_TMP_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT/tmp
+30-Mar-2021 12:42:16.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_WEBAPP_PATH=/home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT
+30-Mar-2021 12:42:16.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DQCADOO_LOG=/home/webadmin/qcadoo-mes-1.10.20/mes-application/logs
+30-Mar-2021 12:42:16.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/home/webadmin/qcadoo-mes-1.10.20/mes-application/lib/aspectjweaver-1.8.2.jar
+30-Mar-2021 12:42:16.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxMetaspaceSize=256m
+30-Mar-2021 12:42:16.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2021 12:42:16.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2021 12:42:16.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+30-Mar-2021 12:42:16.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:42:16.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/webadmin/qcadoo-mes-1.10.20/mes-application
+30-Mar-2021 12:42:16.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/webadmin/qcadoo-mes-1.10.20/mes-application/temp
+30-Mar-2021 12:42:16.953 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+30-Mar-2021 12:42:17.040 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Mar-2021 12:42:17.086 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Mar-2021 12:42:17.097 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1473 ms
+30-Mar-2021 12:42:17.242 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+30-Mar-2021 12:42:17.243 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.12
+30-Mar-2021 12:42:17.265 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT
+30-Mar-2021 12:42:27.940 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Mar-2021 12:44:07.333 INFO [localhost-startStop-1] com.logdigger.connector.servlet.LogDiggerConnectorFilter.setInternalServletPath LogDigger utils path: /logdigger/
+30-Mar-2021 12:44:07.354 INFO [localhost-startStop-1] com.logdigger.connector.ext.Collect.a Initialize Log4J connector
+30-Mar-2021 12:44:07.397 INFO [localhost-startStop-1] ld.repackaged.o.c Attached LogDigger appender for Log4J.
+30-Mar-2021 12:44:07.398 INFO [localhost-startStop-1] com.logdigger.connector.ext.Collect.b Initialize java.util.logging connector
+30-Mar-2021 12:44:07.420 INFO [localhost-startStop-1] com.logdigger.connector.servlet.LogDiggerConnectorFilter.init Initialized LogDigger servlet filter with instance ID: d53b2b6e-22a2-41be-8583-0cd5c63a4b3e
+30-Mar-2021 12:44:07.629 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/webadmin/qcadoo-mes-1.10.20/mes-application/webapps/ROOT has finished in 110,359 ms
+30-Mar-2021 12:44:07.634 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-8080]
+30-Mar-2021 12:44:07.672 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 110574 ms

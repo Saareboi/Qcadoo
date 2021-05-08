@@ -1,0 +1,3 @@
+31-Mar-2021 14:33:07.129 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'Qcadoo MES'
+31-Mar-2021 14:33:07.154 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+31-Mar-2021 14:33:07.960 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Shutting down log4j

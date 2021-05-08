@@ -1,0 +1,734 @@
+2021-03-30 12:42:58,491 [localhost-startStop-1] INFO  org.hibernate.cache.impl.bridge.RegionFactoryCacheProviderBridge - Cache provider: org.hibernate.cache.HashtableCacheProvider
+2021-03-30 12:42:59,141 [localhost-startStop-1] INFO  org.hibernate.cache.UpdateTimestampsCache - starting update timestamps cache at region: org.hibernate.cache.UpdateTimestampsCache
+2021-03-30 12:42:59,145 [localhost-startStop-1] INFO  org.hibernate.cache.StandardQueryCache - starting query cache at region: org.hibernate.cache.StandardQueryCache
+2021-03-30 12:43:25,895 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,896 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211350016
+2021-03-30 12:43:25,897 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,898 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211358208
+2021-03-30 12:43:25,898 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,899 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211362304
+2021-03-30 12:43:25,901 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,902 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211374592
+2021-03-30 12:43:25,903 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,903 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211378689
+2021-03-30 12:43:25,905 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,906 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211390976
+2021-03-30 12:43:25,907 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,907 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211395073
+2021-03-30 12:43:25,909 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,910 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211407360
+2021-03-30 12:43:25,912 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,912 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211415553
+2021-03-30 12:43:25,918 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,919 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211444224
+2021-03-30 12:43:25,920 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,920 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211448321
+2021-03-30 12:43:25,922 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,922 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211456513
+2021-03-30 12:43:25,923 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,924 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211464704
+2021-03-30 12:43:25,924 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:25,925 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675211468800
+2021-03-30 12:43:26,141 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,142 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212357632
+2021-03-30 12:43:26,145 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,145 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212369921
+2021-03-30 12:43:26,149 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,150 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212390400
+2021-03-30 12:43:26,150 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,151 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212394496
+2021-03-30 12:43:26,153 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,153 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212402689
+2021-03-30 12:43:26,154 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,154 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212406785
+2021-03-30 12:43:26,156 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,156 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212414977
+2021-03-30 12:43:26,162 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,163 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212443648
+2021-03-30 12:43:26,163 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,164 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212447744
+2021-03-30 12:43:26,165 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,166 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212455936
+2021-03-30 12:43:26,167 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,168 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212464128
+2021-03-30 12:43:26,169 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,170 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212472320
+2021-03-30 12:43:26,173 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,174 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212488704
+2021-03-30 12:43:26,174 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,175 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212492800
+2021-03-30 12:43:26,176 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,176 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212496897
+2021-03-30 12:43:26,177 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,178 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212505088
+2021-03-30 12:43:26,179 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,180 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212513280
+2021-03-30 12:43:26,186 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,187 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212541952
+2021-03-30 12:43:26,188 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,189 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212550144
+2021-03-30 12:43:26,189 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,190 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212554240
+2021-03-30 12:43:26,191 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,191 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212558337
+2021-03-30 12:43:26,192 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,193 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212566528
+2021-03-30 12:43:26,197 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,198 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212587008
+2021-03-30 12:43:26,198 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,200 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212595200
+2021-03-30 12:43:26,201 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,201 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212599297
+2021-03-30 12:43:26,202 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,203 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212607488
+2021-03-30 12:43:26,205 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,205 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212615681
+2021-03-30 12:43:26,208 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,208 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212627969
+2021-03-30 12:43:26,213 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,214 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212652544
+2021-03-30 12:43:26,214 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,215 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212656640
+2021-03-30 12:43:26,216 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,217 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212664832
+2021-03-30 12:43:26,221 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,222 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212681217
+2021-03-30 12:43:26,222 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,223 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212689408
+2021-03-30 12:43:26,224 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,225 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212697600
+2021-03-30 12:43:26,226 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,226 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212701697
+2021-03-30 12:43:26,227 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,227 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212705793
+2021-03-30 12:43:26,229 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,229 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212713985
+2021-03-30 12:43:26,233 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooplugin_plugin]
+2021-03-30 12:43:26,234 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooplugin_plugin], timestamp: 6623675212734464
+2021-03-30 12:43:37,424 [localhost-startStop-1] INFO  org.hibernate.cache.impl.bridge.RegionFactoryCacheProviderBridge - Cache provider: org.hibernate.cache.HashtableCacheProvider
+2021-03-30 12:43:44,388 [localhost-startStop-1] INFO  org.hibernate.cache.UpdateTimestampsCache - starting update timestamps cache at region: org.hibernate.cache.UpdateTimestampsCache
+2021-03-30 12:43:44,388 [localhost-startStop-1] INFO  org.hibernate.cache.StandardQueryCache - starting query cache at region: org.hibernate.cache.StandardQueryCache
+2021-03-30 12:43:46,547 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:46,553 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675295961088
+2021-03-30 12:43:46,562 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:46,562 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675295997953
+2021-03-30 12:43:46,783 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:46,785 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675296911360
+2021-03-30 12:43:46,798 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:46,799 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675296964609
+2021-03-30 12:43:47,013 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:47,013 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675297845249
+2021-03-30 12:43:48,121 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,122 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675302387712
+2021-03-30 12:43:48,132 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,133 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675302432768
+2021-03-30 12:43:48,145 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,145 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675302481921
+2021-03-30 12:43:48,150 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,150 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675302502401
+2021-03-30 12:43:48,163 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,163 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675302555649
+2021-03-30 12:43:48,169 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,170 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675302584320
+2021-03-30 12:43:48,181 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,182 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675302633472
+2021-03-30 12:43:48,187 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,187 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675302653953
+2021-03-30 12:43:48,201 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,201 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675302711297
+2021-03-30 12:43:48,354 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:48,354 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675303337985
+2021-03-30 12:43:49,704 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:49,709 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675308888064
+2021-03-30 12:43:49,726 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:49,727 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675308961792
+2021-03-30 12:43:49,737 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [qcadooModel_dictionaryItem]
+2021-03-30 12:43:49,737 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [qcadooModel_dictionaryItem], timestamp: 6623675309002753
+2021-03-30 12:44:07,097 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [materialFlowResources_documentPositionParametersItem]
+2021-03-30 12:44:07,098 [localhost-startStop-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [materialFlowResources_documentPositionParametersItem], timestamp: 6623675380113408
+2021-03-30 13:20:05,033 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,034 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684219019264
+2021-03-30 13:20:05,038 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,038 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684219035649
+2021-03-30 13:20:05,171 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,174 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684219592704
+2021-03-30 13:20:05,839 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,840 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222320640
+2021-03-30 13:20:05,849 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,850 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222361600
+2021-03-30 13:20:05,866 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,867 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222431232
+2021-03-30 13:20:05,871 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,871 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222447617
+2021-03-30 13:20:05,876 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,876 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222468097
+2021-03-30 13:20:05,885 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,885 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222504961
+2021-03-30 13:20:05,893 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,894 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222541824
+2021-03-30 13:20:05,898 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,898 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222558209
+2021-03-30 13:20:05,905 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,906 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222590976
+2021-03-30 13:20:05,913 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,914 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222623744
+2021-03-30 13:20:05,919 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,920 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222648320
+2021-03-30 13:20:05,927 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:05,928 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684222681088
+2021-03-30 13:20:06,581 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,581 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225355777
+2021-03-30 13:20:06,598 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,598 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225425409
+2021-03-30 13:20:06,605 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,606 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225458176
+2021-03-30 13:20:06,618 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,618 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225507329
+2021-03-30 13:20:06,625 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,626 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225540096
+2021-03-30 13:20:06,631 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,634 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225572864
+2021-03-30 13:20:06,644 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,645 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225617920
+2021-03-30 13:20:06,650 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,650 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225638401
+2021-03-30 13:20:06,659 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,659 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225675265
+2021-03-30 13:20:06,670 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,671 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225724416
+2021-03-30 13:20:06,674 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,675 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225740800
+2021-03-30 13:20:06,686 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,686 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225785857
+2021-03-30 13:20:06,689 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,689 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225798145
+2021-03-30 13:20:06,698 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,699 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225839104
+2021-03-30 13:20:06,702 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,702 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225851393
+2021-03-30 13:20:06,708 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,708 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225875969
+2021-03-30 13:20:06,719 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,719 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225921025
+2021-03-30 13:20:06,726 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,726 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225949697
+2021-03-30 13:20:06,737 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,738 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684225998848
+2021-03-30 13:20:06,938 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,939 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684226822144
+2021-03-30 13:20:06,949 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,950 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684226867200
+2021-03-30 13:20:06,952 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,953 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684226879488
+2021-03-30 13:20:06,962 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,962 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684226916353
+2021-03-30 13:20:06,970 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,971 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684226953216
+2021-03-30 13:20:06,976 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,977 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684226977792
+2021-03-30 13:20:06,984 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,985 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227010560
+2021-03-30 13:20:06,995 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:06,995 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227051521
+2021-03-30 13:20:07,002 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,002 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227080193
+2021-03-30 13:20:07,007 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,008 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227104768
+2021-03-30 13:20:07,015 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,016 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227137536
+2021-03-30 13:20:07,021 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,022 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227162112
+2021-03-30 13:20:07,025 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,025 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227174401
+2021-03-30 13:20:07,037 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,037 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227223553
+2021-03-30 13:20:07,043 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,043 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227248129
+2021-03-30 13:20:07,052 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,052 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227284993
+2021-03-30 13:20:07,058 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,058 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227309569
+2021-03-30 13:20:07,066 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,066 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227342337
+2021-03-30 13:20:07,071 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,072 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227366912
+2021-03-30 13:20:07,082 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,082 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227407873
+2021-03-30 13:20:07,095 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,096 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227465216
+2021-03-30 13:20:07,103 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,104 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227497984
+2021-03-30 13:20:07,109 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,110 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227522560
+2021-03-30 13:20:07,121 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,122 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227571712
+2021-03-30 13:20:07,129 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,130 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227604480
+2021-03-30 13:20:07,134 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,134 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227620865
+2021-03-30 13:20:07,146 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,146 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227670017
+2021-03-30 13:20:07,148 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,149 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227682304
+2021-03-30 13:20:07,153 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,154 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227702784
+2021-03-30 13:20:07,160 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,161 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227731456
+2021-03-30 13:20:07,166 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,167 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227756032
+2021-03-30 13:20:07,172 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,173 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227780608
+2021-03-30 13:20:07,176 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,177 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227796992
+2021-03-30 13:20:07,181 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,181 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227813377
+2021-03-30 13:20:07,186 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,187 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227837952
+2021-03-30 13:20:07,197 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,198 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227883008
+2021-03-30 13:20:07,205 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,205 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227911681
+2021-03-30 13:20:07,217 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,218 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227964928
+2021-03-30 13:20:07,221 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,222 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684227981312
+2021-03-30 13:20:07,230 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,231 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228018176
+2021-03-30 13:20:07,238 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,238 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228046849
+2021-03-30 13:20:07,249 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,250 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228096000
+2021-03-30 13:20:07,260 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,261 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228141056
+2021-03-30 13:20:07,263 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,264 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228153344
+2021-03-30 13:20:07,277 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,278 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228210688
+2021-03-30 13:20:07,289 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,290 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228259840
+2021-03-30 13:20:07,292 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,292 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228268033
+2021-03-30 13:20:07,298 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,298 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228292609
+2021-03-30 13:20:07,301 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,301 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228304897
+2021-03-30 13:20:07,307 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,308 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228333568
+2021-03-30 13:20:07,310 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,311 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228345856
+2021-03-30 13:20:07,319 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,320 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228382720
+2021-03-30 13:20:07,322 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,323 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228395008
+2021-03-30 13:20:07,333 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,334 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228440064
+2021-03-30 13:20:07,341 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,341 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228468737
+2021-03-30 13:20:07,346 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,347 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228493312
+2021-03-30 13:20:07,353 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,354 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228521984
+2021-03-30 13:20:07,358 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,359 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228542464
+2021-03-30 13:20:07,370 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,370 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228587521
+2021-03-30 13:20:07,373 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,373 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228599809
+2021-03-30 13:20:07,382 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,382 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228636673
+2021-03-30 13:20:07,390 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,390 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228669441
+2021-03-30 13:20:07,397 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,398 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228702208
+2021-03-30 13:20:07,400 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,401 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228714496
+2021-03-30 13:20:07,406 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,406 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228734977
+2021-03-30 13:20:07,413 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,414 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228767744
+2021-03-30 13:20:07,425 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,426 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228816896
+2021-03-30 13:20:07,428 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,429 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228829184
+2021-03-30 13:20:07,433 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,434 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228849664
+2021-03-30 13:20:07,439 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,439 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228870145
+2021-03-30 13:20:07,450 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,450 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228915201
+2021-03-30 13:20:07,453 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,453 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228927489
+2021-03-30 13:20:07,460 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,461 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228960256
+2021-03-30 13:20:07,463 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,464 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228972544
+2021-03-30 13:20:07,469 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,470 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684228997120
+2021-03-30 13:20:07,473 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,474 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229013504
+2021-03-30 13:20:07,476 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,477 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229021697
+2021-03-30 13:20:07,491 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,491 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229083137
+2021-03-30 13:20:07,494 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,494 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229095425
+2021-03-30 13:20:07,500 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,500 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229120001
+2021-03-30 13:20:07,511 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,511 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229165056
+2021-03-30 13:20:07,518 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,518 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229193729
+2021-03-30 13:20:07,523 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,524 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229218304
+2021-03-30 13:20:07,533 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,534 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229259264
+2021-03-30 13:20:07,536 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,536 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229267457
+2021-03-30 13:20:07,545 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,545 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229304321
+2021-03-30 13:20:07,549 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,550 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229324800
+2021-03-30 13:20:07,558 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,558 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229357569
+2021-03-30 13:20:07,565 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,566 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229390336
+2021-03-30 13:20:07,571 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,571 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229410817
+2021-03-30 13:20:07,573 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,574 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229423104
+2021-03-30 13:20:07,582 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,583 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229459968
+2021-03-30 13:20:07,588 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,588 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229480449
+2021-03-30 13:20:07,595 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,595 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229509121
+2021-03-30 13:20:07,598 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,599 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229525504
+2021-03-30 13:20:07,606 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,607 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229558272
+2021-03-30 13:20:07,611 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,612 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229578752
+2021-03-30 13:20:07,618 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,618 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229603329
+2021-03-30 13:20:07,626 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,626 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229636097
+2021-03-30 13:20:07,638 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,638 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229685249
+2021-03-30 13:20:07,642 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,642 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229701633
+2021-03-30 13:20:07,650 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,650 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229734401
+2021-03-30 13:20:07,658 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,658 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229767169
+2021-03-30 13:20:07,667 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,667 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229804033
+2021-03-30 13:20:07,674 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,674 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684229832704
+2021-03-30 13:20:07,755 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,756 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230168576
+2021-03-30 13:20:07,761 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,761 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230189057
+2021-03-30 13:20:07,764 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,765 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230205440
+2021-03-30 13:20:07,768 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,768 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230217729
+2021-03-30 13:20:07,773 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,774 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230242304
+2021-03-30 13:20:07,778 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,778 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230258689
+2021-03-30 13:20:07,782 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,783 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230279168
+2021-03-30 13:20:07,790 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,791 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230311936
+2021-03-30 13:20:07,793 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,793 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230320129
+2021-03-30 13:20:07,795 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,796 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230332416
+2021-03-30 13:20:07,800 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,800 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230348801
+2021-03-30 13:20:07,802 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,803 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230361088
+2021-03-30 13:20:07,805 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-30 13:20:07,806 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6623684230373376
+2021-03-31 05:30:01,082 [schedulerFactoryBeanBasic_Worker-8] DEBUG org.hibernate.cache.StandardQueryCache - checking cached query results in region: org.hibernate.cache.StandardQueryCache
+2021-03-31 05:30:01,086 [schedulerFactoryBeanBasic_Worker-8] DEBUG org.hibernate.cache.StandardQueryCache - query results were not found in cache
+2021-03-31 05:30:01,124 [schedulerFactoryBeanBasic_Worker-8] DEBUG org.hibernate.cache.StandardQueryCache - caching query results in region: org.hibernate.cache.StandardQueryCache; timestamp=6623922590203904
+2021-03-31 05:30:01,136 [schedulerFactoryBeanBasic_Worker-8] DEBUG org.hibernate.cache.StandardQueryCache - checking cached query results in region: org.hibernate.cache.StandardQueryCache
+2021-03-31 05:30:01,137 [schedulerFactoryBeanBasic_Worker-8] DEBUG org.hibernate.cache.StandardQueryCache - query results were not found in cache
+2021-03-31 05:30:01,141 [schedulerFactoryBeanBasic_Worker-8] DEBUG org.hibernate.cache.StandardQueryCache - caching query results in region: org.hibernate.cache.StandardQueryCache; timestamp=6623922590273536
+2021-03-31 06:00:00,049 [schedulerFactoryBeanBasic_Worker-9] DEBUG org.hibernate.cache.StandardQueryCache - checking cached query results in region: org.hibernate.cache.StandardQueryCache
+2021-03-31 06:00:00,057 [schedulerFactoryBeanBasic_Worker-9] DEBUG org.hibernate.cache.StandardQueryCache - Checking query spaces for up-to-dateness: [basic_parameter]
+2021-03-31 06:00:00,058 [schedulerFactoryBeanBasic_Worker-9] DEBUG org.hibernate.cache.StandardQueryCache - returning cached query results
+2021-03-31 06:00:00,063 [schedulerFactoryBeanBasic_Worker-9] DEBUG org.hibernate.cache.StandardQueryCache - checking cached query results in region: org.hibernate.cache.StandardQueryCache
+2021-03-31 06:00:00,063 [schedulerFactoryBeanBasic_Worker-9] DEBUG org.hibernate.cache.StandardQueryCache - Checking query spaces for up-to-dateness: [basic_parameter]
+2021-03-31 06:00:00,063 [schedulerFactoryBeanBasic_Worker-9] DEBUG org.hibernate.cache.StandardQueryCache - returning cached query results
+2021-03-31 13:20:00,252 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,253 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038093832193
+2021-03-31 13:20:00,258 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,258 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038093856769
+2021-03-31 13:20:00,262 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,263 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038093877248
+2021-03-31 13:20:00,268 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,268 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038093897729
+2021-03-31 13:20:00,275 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,276 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038093930496
+2021-03-31 13:20:00,281 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,282 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038093955072
+2021-03-31 13:20:00,285 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,286 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038093971456
+2021-03-31 13:20:00,288 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,289 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038093983744
+2021-03-31 13:20:00,295 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,295 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094008321
+2021-03-31 13:20:00,299 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,299 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094024705
+2021-03-31 13:20:00,302 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,303 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094041088
+2021-03-31 13:20:00,307 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,308 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094061568
+2021-03-31 13:20:00,317 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,318 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094102528
+2021-03-31 13:20:00,321 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,321 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094114817
+2021-03-31 13:20:00,329 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,330 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094151680
+2021-03-31 13:20:00,336 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,336 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094176257
+2021-03-31 13:20:00,340 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,341 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094196736
+2021-03-31 13:20:00,352 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,353 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094245888
+2021-03-31 13:20:00,360 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,361 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094278656
+2021-03-31 13:20:00,364 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,364 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094290945
+2021-03-31 13:20:00,373 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,374 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094331904
+2021-03-31 13:20:00,379 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,380 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094356480
+2021-03-31 13:20:00,385 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,385 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094376961
+2021-03-31 13:20:00,392 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,392 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094405633
+2021-03-31 13:20:00,403 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,403 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094450689
+2021-03-31 13:20:00,409 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,410 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094479360
+2021-03-31 13:20:00,418 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,420 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094520320
+2021-03-31 13:20:00,425 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,426 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094544896
+2021-03-31 13:20:00,430 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,430 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094561281
+2021-03-31 13:20:00,435 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,436 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094585856
+2021-03-31 13:20:00,444 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,444 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094618625
+2021-03-31 13:20:00,447 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,447 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038094630913
+2021-03-31 13:20:00,580 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,581 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095179776
+2021-03-31 13:20:00,584 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,584 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095192065
+2021-03-31 13:20:00,594 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,594 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095233025
+2021-03-31 13:20:00,596 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,597 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095245312
+2021-03-31 13:20:00,606 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,606 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095282177
+2021-03-31 13:20:00,608 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,609 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095294464
+2021-03-31 13:20:00,624 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,625 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095360000
+2021-03-31 13:20:00,629 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,630 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095380480
+2021-03-31 13:20:00,638 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,638 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095413249
+2021-03-31 13:20:00,641 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,642 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095429632
+2021-03-31 13:20:00,646 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,646 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095446017
+2021-03-31 13:20:00,649 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,650 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095462400
+2021-03-31 13:20:00,658 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,659 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095499264
+2021-03-31 13:20:00,664 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,664 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095519745
+2021-03-31 13:20:00,670 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,670 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095544321
+2021-03-31 13:20:00,674 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,674 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095560705
+2021-03-31 13:20:00,681 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,682 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095593472
+2021-03-31 13:20:00,685 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,686 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095609856
+2021-03-31 13:20:00,693 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,694 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095642624
+2021-03-31 13:20:00,721 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,721 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095753217
+2021-03-31 13:20:00,733 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,733 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095802369
+2021-03-31 13:20:00,745 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,746 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095855616
+2021-03-31 13:20:00,751 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,751 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095876097
+2021-03-31 13:20:00,762 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,762 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095921153
+2021-03-31 13:20:00,768 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,768 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095945729
+2021-03-31 13:20:00,774 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,775 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038095974400
+2021-03-31 13:20:00,781 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,782 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096003072
+2021-03-31 13:20:00,786 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,787 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096023552
+2021-03-31 13:20:00,794 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,795 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096056320
+2021-03-31 13:20:00,801 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,807 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096105472
+2021-03-31 13:20:00,810 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,811 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096121856
+2021-03-31 13:20:00,814 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,815 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096138240
+2021-03-31 13:20:00,817 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,817 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096146433
+2021-03-31 13:20:00,822 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,823 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096171008
+2021-03-31 13:20:00,833 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,834 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096216064
+2021-03-31 13:20:00,836 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,836 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096224257
+2021-03-31 13:20:00,845 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,846 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096265216
+2021-03-31 13:20:00,856 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,856 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096306177
+2021-03-31 13:20:00,866 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,866 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096347137
+2021-03-31 13:20:00,869 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,869 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096359425
+2021-03-31 13:20:00,883 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,883 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096416769
+2021-03-31 13:20:00,890 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,890 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096445441
+2021-03-31 13:20:00,901 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,901 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096490497
+2021-03-31 13:20:00,904 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,904 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096502785
+2021-03-31 13:20:00,913 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,914 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096543744
+2021-03-31 13:20:00,924 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,924 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096584705
+2021-03-31 13:20:00,929 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,930 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096609280
+2021-03-31 13:20:00,933 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,933 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096621569
+2021-03-31 13:20:00,938 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,939 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096646144
+2021-03-31 13:20:00,945 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,945 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096670721
+2021-03-31 13:20:00,957 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,958 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096723968
+2021-03-31 13:20:00,961 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,962 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096740352
+2021-03-31 13:20:00,967 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,968 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096764928
+2021-03-31 13:20:00,971 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,971 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096777217
+2021-03-31 13:20:00,982 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,983 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096826368
+2021-03-31 13:20:00,990 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:00,990 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096855041
+2021-03-31 13:20:01,006 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,006 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096920577
+2021-03-31 13:20:01,011 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,012 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096945152
+2021-03-31 13:20:01,014 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,015 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096957440
+2021-03-31 13:20:01,022 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,022 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096986113
+2021-03-31 13:20:01,025 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,025 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038096998401
+2021-03-31 13:20:01,033 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,033 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097031169
+2021-03-31 13:20:01,036 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,036 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097043457
+2021-03-31 13:20:01,045 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,045 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097080321
+2021-03-31 13:20:01,054 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,054 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097117185
+2021-03-31 13:20:01,057 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,058 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097133568
+2021-03-31 13:20:01,069 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,074 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097199104
+2021-03-31 13:20:01,076 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,076 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097207297
+2021-03-31 13:20:01,085 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,086 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097248256
+2021-03-31 13:20:01,088 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,089 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097260544
+2021-03-31 13:20:01,097 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,098 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097297408
+2021-03-31 13:20:01,114 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,114 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097362945
+2021-03-31 13:20:01,117 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,117 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097375233
+2021-03-31 13:20:01,122 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,123 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097399808
+2021-03-31 13:20:01,128 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,128 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097420289
+2021-03-31 13:20:01,132 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,133 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097440768
+2021-03-31 13:20:01,142 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,142 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097477633
+2021-03-31 13:20:01,146 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,147 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097498112
+2021-03-31 13:20:01,154 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,155 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097530880
+2021-03-31 13:20:01,159 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,159 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097547265
+2021-03-31 13:20:01,170 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,171 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097596416
+2021-03-31 13:20:01,177 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,178 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097625088
+2021-03-31 13:20:01,189 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,190 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097674240
+2021-03-31 13:20:01,192 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,193 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097686528
+2021-03-31 13:20:01,197 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,198 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097707008
+2021-03-31 13:20:01,210 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,210 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097756161
+2021-03-31 13:20:01,218 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,218 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097788929
+2021-03-31 13:20:01,229 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,229 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097833985
+2021-03-31 13:20:01,238 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,238 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097870849
+2021-03-31 13:20:01,246 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,247 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038097907712
+2021-03-31 13:20:01,320 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,320 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098206721
+2021-03-31 13:20:01,323 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,323 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098219009
+2021-03-31 13:20:01,327 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,328 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098239488
+2021-03-31 13:20:01,330 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,331 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098251776
+2021-03-31 13:20:01,337 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,338 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098280448
+2021-03-31 13:20:01,340 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,340 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098288641
+2021-03-31 13:20:01,349 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,350 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098329600
+2021-03-31 13:20:01,352 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,352 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098337793
+2021-03-31 13:20:01,361 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,362 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098378752
+2021-03-31 13:20:01,364 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,364 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098386945
+2021-03-31 13:20:01,373 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,374 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098427904
+2021-03-31 13:20:01,376 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,376 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098436097
+2021-03-31 13:20:01,385 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Pre-invalidating space [basic_currency]
+2021-03-31 13:20:01,386 [executor-1] DEBUG org.hibernate.cache.UpdateTimestampsCache - Invalidating space [basic_currency], timestamp: 6624038098477056
